@@ -1,3 +1,4 @@
+package com.example;
 import com.example.Application;
 import org.junit.Test;
 import static org.junit.Assert.*;
